@@ -1,0 +1,6 @@
+requirements- 
+dwnld all these.. 
+ tesseract 4-    
+                 -https://digi.bib.unimannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe               -                                  -https://codeload.github.com/tesseract-ocr/langdata/zip/master
+
+ python docx 0.8.6 
